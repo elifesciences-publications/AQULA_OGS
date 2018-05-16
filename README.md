@@ -1,5 +1,5 @@
-## *Ignelater luminosus* Official Geneset
-This is the Official Geneset (OGS) for [*Ignelater luminosus* (Cucubano)](https://en.wikipedia.org/wiki/Pyrophorus_luminosus)
+## *Aquatica lateralis* Official Geneset
+This is the Official Geneset (OGS) for [*Aquatica lateralis* (ヘイキボタル)](https://en.wikipedia.org/wiki/Aquatica_lateralis)
 
 As reported in this preprint: [https://www.biorxiv.org/content/early/2018/02/25/237586](https://www.biorxiv.org/content/early/2018/02/25/237586)
 
@@ -28,7 +28,7 @@ Report issues [here](https://github.com/photocyte/ILUMI_OGS/issues)
 ### Making direct gene model or annotation changes
 
  1. Fork this repository
- 2. Download and edit the [ILUMI_OGS*.gff3](./ILUMI_OGS1.0.gff3) file
+ 2. Download and edit the [AQULA_OGS*.gff3](./AQULA_OGS1.0.gff3) file
  3. Sort the GFF3 file and regenerate dependent files (CDS, mRNA, peptide) files using the [utility_scripts/sort-and-regenerate-OGS-GFF.sh](utility_scripts/sort-and-regenerate-OGS-GFF.sh) script.
  4. Commit your changes back to your repository, with an informative message for the changes that were made
  5. Submit a pull request to this repository
