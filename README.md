@@ -1,5 +1,5 @@
 ## *Aquatica lateralis* Official Geneset
-This is the Official Geneset (OGS) for [*Aquatica lateralis* (ヘイキボタル)](https://en.wikipedia.org/wiki/Aquatica_lateralis)
+This is the Official Geneset (OGS) for [*Aquatica lateralis* (ヘイケボタル)](https://en.wikipedia.org/wiki/Aquatica_lateralis)
 
 As reported in this preprint: [https://www.biorxiv.org/content/early/2018/02/25/237586](https://www.biorxiv.org/content/early/2018/02/25/237586)
 
