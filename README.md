@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Fallon et al., "Firefly genomes illuminate parallel origins of bioluminescence in beetles". eLife, 2018. http://dx.doi.org/10.7554/eLife.36495
+
 ## *Aquatica lateralis* Official Geneset
 This is the Official Geneset (OGS) for [*Aquatica lateralis* (ヘイケボタル)](https://en.wikipedia.org/wiki/Aquatica_lateralis)
 
